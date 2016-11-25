@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SesionOne</string>
+
+    <string name="user">User</string>
+
+    <string name="password">Password</string>
+</resources>
